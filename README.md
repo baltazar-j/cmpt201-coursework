@@ -1,1 +1,3 @@
 # cmpt201-coursework
+
+## DO NOT USE THIS FOR ASSIGNMENTS. ONLY LABS
